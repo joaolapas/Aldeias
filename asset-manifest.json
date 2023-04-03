@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aldeias/static/css/main.5994d23f.css",
+    "main.js": "/Aldeias/static/js/main.3c39ef86.js",
+    "static/js/787.6a541d2d.chunk.js": "/Aldeias/static/js/787.6a541d2d.chunk.js",
+    "index.html": "/Aldeias/index.html",
+    "main.5994d23f.css.map": "/Aldeias/static/css/main.5994d23f.css.map",
+    "main.3c39ef86.js.map": "/Aldeias/static/js/main.3c39ef86.js.map",
+    "787.6a541d2d.chunk.js.map": "/Aldeias/static/js/787.6a541d2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5994d23f.css",
+    "static/js/main.3c39ef86.js"
+  ]
+}
