@@ -23,8 +23,8 @@ const Tile = ({ crop }) => {
       case "wood":
         setBackground({ backgroundColor: "#8B5A2B", color: "white" });
         setCost({
-          cereal: Math.round((1 + level) * 13 *((1 + level)*1.1)),
-          wood: Math.round((1 + level) * 6 *((1 + level)*1.1)),
+          cereal: Math.round((1 + level) * 5 *((1 + level)*1.1)),
+          wood: Math.round((1 + level) * 9 *((1 + level)*1.1)),
           stone: Math.round((1 + level) * 10 *((1 + level)*1.1)),
           iron: Math.round((1 + level) * 12 *((1 + level)*1.1)),
         });
